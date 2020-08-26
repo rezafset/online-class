@@ -1,0 +1,9 @@
+.holder-container{
+    display: flex;
+}
+.course-part{
+    width: 70%;
+}
+.price-part{
+    width: 30%;
+}
