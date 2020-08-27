@@ -1,53 +1,27 @@
-.course-list{
-    clear: both;
-    text-align: center;
-    border-radius: 20px;
-    margin: 5px;
-    background: lightblue;
-    box-shadow: 10px 10px 12px gray;
-}
-.course-list button{
-    width: 150px;
-    height: 30px;
+.course-container{
+    background: lightcyan;
+    width: 350px;
+    height: 400px;
+    overflow: hidden;
     margin-bottom: 10px;
-    color: #fff;
-    background: lightcoral;
-    border: none;
-    border-radius: 10px;
-    font-size: 16px;
+    border-radius:10px;
+    box-shadow: 8px 8px 12px gray;
+}
+.course-list h5{
+    margin-top: 5px;
 }
 .course-list img{
-    width: 300px;
-    /* height: 300px; */
-    /* border-radius: 20px; */
+    width:350px;
+    height: 180px;
 }
-
-/* .user-container{
+.course-info{
+    padding: 5px;
+}
+.course-info div{
     display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    margin: 10px 0 20px 0;
+    justify-content: center;
+    align-items: center;
 }
-.user-list{
-    border: 1px solid red;
-    text-align: center;
-    border-radius: 20px;
-    margin: 5px;
-    background: lightblue;
-    box-shadow: 10px 10px 12px gray;
+.btn{
+    width: 180px;
 }
-.user-list img{
-    width: 300px;
-    height: 300px;
-    border-radius: 20px;
-}
-.user-list button{
-    width: 150px;
-    height: 30px;
-    margin-bottom: 10px;
-    color: #fff;
-    background: lightcoral;
-    border: none;
-    border-radius: 10px;
-    font-size: 16px;
-} */

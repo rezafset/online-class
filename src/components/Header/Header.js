@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <Container>
             <Row>
-                <Col><h1 className="display-4 text-center">Online Class Website</h1></Col>
+                <Col><h1 className="display-4 text-center py-4">Online Class Website</h1></Col>
             </Row>
         </Container>
     );

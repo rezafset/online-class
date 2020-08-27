@@ -5,13 +5,20 @@ import './Course.css'
 const Course = (props) => {
     const{img, name, instructor, price } = props.course;
     return (
-        <div className="course-container">
+        <div className="course-container mb-3">
             <div className="course-list">
-                <img src={img} alt=""/>
-                <h3>{name}</h3>
-                <p>{instructor}</p>
-                <p>${price} </p>
-                <button onClick={() => props.handleCourseAdd(props.course)}>Enroll Now</button>
+                <div>
+                    <img src={img} alt=""/>
+                </div>
+                <br/>
+                <div className="course-info">
+                    <h5>{name}</h5><br/>
+                    <p>Instructor: {instructor}</p>
+                    <p>Price: ${price} </p>
+                    <div>
+                        <button className="btn btn-success" onClick={() => props.handleCourseAdd(props.course)}>Enroll Now</button>
+                    </div>
+                </div>
             </div>
         </div>
     );

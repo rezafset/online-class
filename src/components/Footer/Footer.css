@@ -1,0 +1,9 @@
+footer p{
+    font-size: 20px;
+}
+footer a:hover{
+    text-decoration: none;
+}
+/* footer span{
+    color: #fff;
+} */
