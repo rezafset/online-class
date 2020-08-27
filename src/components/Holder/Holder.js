@@ -25,7 +25,7 @@ const Holder = () => {
                         }
                     </div>
                     <div className="price-part">
-                        <h4 className="text-center">Order Summary</h4>
+                        <h4 className="text-center font-weight-bold">Order Summary</h4>
                         <Price price={price}></Price>
                     </div>
                 </Col>

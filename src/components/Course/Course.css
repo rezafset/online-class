@@ -36,3 +36,8 @@
         margin: auto;
     }
 }
+@media (max-width: 360px){
+    .course-container img{
+        width:330px;
+    }
+}

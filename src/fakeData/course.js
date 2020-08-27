@@ -37,14 +37,14 @@ var course =
     },
     {
         "id": "6",
-        "name": "Cisco CCNA 200-301",
+        "name": "C Programming For Beginners",
         "instructor": "Neil Anderson",
         "price": "13.99",
-        "img": "https://lh3.googleusercontent.com/proxy/9dXL5esGzDVMCzfuLkzuNfX3WtvP3ejDZP20E7ioVX8a47qEkJ-IxatT4dABpRlTpS3CP6DW6zWq8kSXoxfVwF3sGSOw-9muRxDKTIfBDz6Ma9i9sqZPqmkmRAxD6ts6d7vi4g"
+        "img": "https://img-a.udemycdn.com/course/750x422/700012_a499_9.jpg"
     },
     {
         "id": "7",
-        "name": "Complete Networking Fundamentals",
+        "name": "Networking Fundamentals",
         "instructor": "David Bombal",
         "price": "10.99",
         "img": "https://img-a.udemycdn.com/course/750x422/2580994_7762_6.jpg"
