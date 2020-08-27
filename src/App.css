@@ -1,6 +1,10 @@
+*{
+  font-family: 'Source Sans Pro', sans-serif;
+}
 .App{
   background: #D8CF61;
 }
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

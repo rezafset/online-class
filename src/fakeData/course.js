@@ -26,7 +26,7 @@ var course =
         "name": "Learn Photoshop & Freelancing",
         "instructor": "Cristian Doru Barin",
         "price": "9.99",
-        "img": "https://cdn.mos.cms.futurecdn.net/87UmxSqMziRXxyN54tBe7N-1200-80.jpg"
+        "img": "https://wallpaperaccess.com/full/1533478.jpg"
     },
     {
         "id": "5",
@@ -40,7 +40,7 @@ var course =
         "name": "Cisco CCNA 200-301",
         "instructor": "Neil Anderson",
         "price": "13.99",
-        "img": "https://networkskills.net/wp-content/uploads/2020/03/cisco-ccna.jpg"
+        "img": "https://lh3.googleusercontent.com/proxy/9dXL5esGzDVMCzfuLkzuNfX3WtvP3ejDZP20E7ioVX8a47qEkJ-IxatT4dABpRlTpS3CP6DW6zWq8kSXoxfVwF3sGSOw-9muRxDKTIfBDz6Ma9i9sqZPqmkmRAxD6ts6d7vi4g"
     },
     {
         "id": "7",
@@ -68,7 +68,7 @@ var course =
         "name": "Python Programming Masterclass",
         "instructor": "Jean-Paul Roberts",
         "price": "10.99",
-        "img": "https://www.programming-hero.com/blog/assets/images/blog/How-long-does-it-take-to-learn-Python.png"
+        "img": "https://michaelwashburnjr.com/wp-content/uploads/2017/09/python.jpg"
     },
     {
         "id": "11",

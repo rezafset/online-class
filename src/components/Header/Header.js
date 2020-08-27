@@ -6,7 +6,14 @@ const Header = () => {
     return (
         <Container>
             <Row>
-                <Col><h1 className="display-4 text-center py-4">Online Class Website</h1></Col>
+                <Col className="header">
+                    <div>
+                        <h1 className="display-5 py-4">Courses We Offer</h1>
+                    </div>
+                    <div>
+                        <button className="btn btn-success">Sign Up</button>
+                    </div>
+                </Col>
             </Row>
         </Container>
     );

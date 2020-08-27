@@ -7,8 +7,8 @@ const Price = (props) => {
 
     return (
         <div>
-            <h3>Total Enroll: {priceInfo.length} </h3>
-            <p>Total Price: {grandTotal} </p>
+            <h5>Total Enroll: {priceInfo.length} </h5>
+            <p>Total Price: ${grandTotal} </p>
         </div>
     );
 };

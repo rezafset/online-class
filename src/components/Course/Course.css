@@ -1,7 +1,7 @@
 .course-container{
-    background: lightcyan;
+    background: linear-gradient(#4289FF , #07F8C3);
     width: 350px;
-    height: 400px;
+    height: 420px;
     overflow: hidden;
     margin-bottom: 10px;
     border-radius:10px;
@@ -22,6 +22,17 @@
     justify-content: center;
     align-items: center;
 }
+.course-info h5{
+    font-size: 20px;
+    font-weight: 700;
+}
 .btn{
     width: 180px;
+    font-size: 18px;
+}
+
+@media (max-width: 991px){
+    .course-container{
+        margin: auto;
+    }
 }

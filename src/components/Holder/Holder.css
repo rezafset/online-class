@@ -5,11 +5,15 @@
    margin-bottom: 10px;
 }
 .price-part{
-    /* border: 1px solid green; */
-    background: lightcoral;
+    background: #fff;
     padding: 20px;
-    width: 50%;
+    width: 40%;
     margin: auto;
     border-radius:10px;
-    box-shadow: 10px 10px 8px gray;
+    box-shadow: 10px 10px 10px gray;
+}
+@media (max-width: 468px){
+    .price-part{
+        width: 80%;
+    }
 }

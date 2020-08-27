@@ -1,9 +1,10 @@
 footer p{
-    font-size: 20px;
+    font-size: 17px;
+}
+footer a{
+    color: #d94949;
+    font-weight: 500;
 }
 footer a:hover{
     text-decoration: none;
 }
-/* footer span{
-    color: #fff;
-} */
